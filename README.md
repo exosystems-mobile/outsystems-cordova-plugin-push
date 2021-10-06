@@ -1,5 +1,8 @@
 # Outsystems Cordova Plugin Push
 A clone of the original cordova-plugin-push adapted to work with outsystems by adding hook scripts to load the google-services.josn and .plist files from the target directory
+
+Thanks to all contributers of the scripts found here https://github.com/TruewindIT/cordova-plugin-firebase-only-analytics-notifications. All scripts in this repo were taken from there
+
 # Cordova Plugin Push
 
 [![Build Status](https://travis-ci.org/havesource/cordova-plugin-push.svg)](https://travis-ci.org/havesource/cordova-plugin-push)
